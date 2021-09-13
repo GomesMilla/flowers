@@ -5,7 +5,7 @@
 </h4>
 
 <h1 align="center">
-  <img alt="Imagem de inicio" title="#FLOWERS" src="image/ImagemdeCapa.png" />
+  <img alt="Imagem de inicio" title="#FLOWERS" src="image/CapadoReadme.png" />
 </h1>
 <p text-align="justify">Este repositório tem foco, na criação de um template com o tema sobre flores para o ínicio do do aprendizado no framework Front-End Materialize.</p>
 <p text-align="justify">Este projeto faz parte do meu portfólio pessoal, então, ficarei feliz caso você forneça algum feedback, código, estrutura, funcionalidade ou qualquer melhoria que você possa relatar para melhora-lo.Você pode usar este projeto como quiser, seja para estudar, fazer melhorias, você quem manda!.</p>
@@ -27,7 +27,7 @@ Este é um projeto totalmente grátis!
 ---
 
 
- <img style="border-radius: 50%;" src="image/CapadoReadme.png" width="100px;" alt="Imagem de capa do readme"/>
+ <img style="border-radius: 50%;" src="image/camila.jpeg" width="100px;" alt="Imagem de capa do readme"/>
  <sub><b>Camila Adriana</b></sub></a> <a href="www.linkedin.com/in/camila-adriana-gomes-de-jesus-04767b1ba" title="Foto de perfil"></a><br>
 Feito com ❤️ por Camila Adriana 👋🏽 Entre em contato!
 
