@@ -1,11 +1,15 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    background-color: rgba(247, 183, 241, 0.932);
+}
+main {
+    flex: 1 0 auto;
+}      
 #letra {
     color: #f3e9ea;
 }
-
-body {
-    background-color: rgba(247, 183, 241, 0.932);
-}
-
 div .edit-text {
     font-size: 12px;
     text-align: center;
@@ -112,15 +116,21 @@ body {
 }
 
 #progress-bar-container {
+
     width: 100%;
     height: 8px
     /**Também sobre a barra**/
 }
 
 #progress-bar {
+    position:absolute;
     height: 16px;
     background-image: -webkit-linear-gradient(90deg, #000000, #bd4349);
     background-image: linear-gradient(90deg, #f5115d, #bd43a9);
     width: 0%;
     /**AQUI CONFIGURA A BARRA O VISUAL DELA COMO TAMANHO, COR, E SUA "IMAGEM"**/
+}
+
+.details:hover{
+    color: #f5115d;
 }
