@@ -160,13 +160,13 @@ body {
 
 
 ::-webkit-scrollbar-thumb {
-  background: #f5115d; 
+  background: #ff4081; 
   border-radius: 2px;
 }
 
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #f5115d; 
+  background: #ff4081; 
 }
 .teste li {
     display: inline-block;
