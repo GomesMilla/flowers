@@ -27,7 +27,7 @@ Este é um projeto totalmente grátis!
 ---
 
 
- <img style="border-radius: 50%;" src="image/CapadoReadme.png" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="image/CapadoReadme.png" width="100px;" alt="Imagem de capa do readme"/>
  <sub><b>Camila Adriana</b></sub></a> <a href="www.linkedin.com/in/camila-adriana-gomes-de-jesus-04767b1ba" title="Foto de perfil"></a><br>
 Feito com ❤️ por Camila Adriana 👋🏽 Entre em contato!
 
