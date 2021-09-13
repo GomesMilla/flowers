@@ -1,5 +1,5 @@
 <h1 align="center">FLOWERS</h1>
-<p>Criar uma aplicação clone de um template disponível do Materialize, com intuito de promover o aprendizado utilizando o framework Front-End Materialize </p>
+<p>Criar um clone de um template disponível do Materialize, com intuito de promover o aprendizado utilizando o framework Front-End Materialize</p>
 <h4 align="center"> 
 	🚧  Status 🚀 Refatorando o código  🚧
 </h4>
